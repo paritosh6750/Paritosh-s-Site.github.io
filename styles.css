@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #20B2AA;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 65px;
+   }
+ h2 {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .top-container {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+  }
+
+  .top-cloud {
+    position: absolute;
+    right: 280px;
+  }
+
+  .bottom-cloud {
+    position: absolute;
+    top: 200px;
+  }
+
+  .middle-container {
+    background-color: white;
+    padding-top: 100px;
+  }
+
+  .bottom-container {
+  background-color: white;
+  }
+  .profile{
+    color: black;
+  }
+  hr{
+    color: grey;
+    border-style: dotted;
+    height: 0;
+    width: 10%;
+    border-radius: 100%;
+  }
+table{
+  margin: 0 auto;
+
+}
+.img1{
+  height: 150px;
+  width: 150px;
+}
+.img2{
+  height: 150px;
+  width: 150px;
+}
+.yup{
+  color: black;
+}
+.btn{
+  color:  #20B2AA;
+}
